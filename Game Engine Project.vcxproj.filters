@@ -28,4 +28,7 @@
   <ItemGroup>
     <ClCompile Include="Game Engine Project.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="hello.txt" />
+  </ItemGroup>
 </Project>
